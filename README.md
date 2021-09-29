@@ -99,7 +99,6 @@ A simple view of the project model schema.
 </p>
 
 ### Todo
-- [ ] add unit tests
 - [ ] add heroku config files
 - [ ] complete the documentation
 - [ ] create a video tutorial

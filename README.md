@@ -9,10 +9,7 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 </a>
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-
 </p>
-
-
 
 ### Overview
 - [Overview](#overview)
@@ -29,7 +26,7 @@
 ### Demo
 This is a brief demo of the functionality of the project
 <p align="center">
-<img src="" alt="database schema" width="720"/>
+<img src="https://user-images.githubusercontent.com/29748439/135331788-ad66606a-ac33-4196-b482-aed932431937.gif" alt="database schema" width="720"/>
 </p>
 
 ### Features
@@ -98,7 +95,7 @@ black -l 79 . && flake8
 ### Database schema
 A simple view of the project model schema.
 <p align="center">
-<img src="" alt="database schema" width="300"/>
+<img src="https://user-images.githubusercontent.com/29748439/135331759-05c3e1aa-6308-4405-9ac3-44c9b73711a1.png" alt="database schema" width="300"/>
 </p>
 
 ### Todo

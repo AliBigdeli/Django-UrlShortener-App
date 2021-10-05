@@ -1,7 +1,7 @@
 from django.urls import path, include
 from . import views
 
-appname = "urlshortener"
+app_name = "urlshortener"
 
 urlpatterns = [
     path("", views.indexView, name="index"),
